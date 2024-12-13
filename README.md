@@ -48,7 +48,7 @@ Make sure you have the following installed:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/NIKHIL-58/data_visualization_dashboards.git
+   git clone https://github.com/NikhilSinghunited/Visualization-Dashboard.git
    cd  data_visualization_dashboards.git
    ```
 
