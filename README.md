@@ -167,8 +167,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions, feel free to contact:
 
-- **Email:** [nikhildubey183@gmail.com](mailto:nikhildubey183@gmail.com)
-- **GitHub:** [https://github.com/NIKHIL-58](https://github.com/NIKHIL-58)
+- **Email:** [nikhilucercs@gmail.com](mailto:nikhilucercs@gmail.com)
+- **GitHub:** [https://github.com/NikhilSinghunited](https://github.com/NikhilSinghunited)
 
 ---
 
